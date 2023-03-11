@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PolegadasParaCentimetros</string>
+    <string name="button_convert">Convert</string>
+    <string name="inches">Inches</string>
+    <string name="text">Digite um número</string>
+</resources>
